@@ -1,0 +1,42 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+}
+.hero-section {
+    background: linear-gradient(to right, rgba(0, 123, 255, 0.8), rgba(0, 172, 193, 0.8)), url('https://via.placeholder.com/1500x500');
+    background-size: cover;
+    color: white;
+    text-align: center;
+    padding: 4rem 1rem;
+}
+.hero-section h1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+.hero-section p {
+    font-size: 1.2rem;
+}
+.about-section {
+    padding: 3rem 1rem;
+}
+.about-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.values-section {
+    background-color: #e3f2fd;
+    padding: 3rem 1rem;
+    text-align: center;
+}
+.values-section h2 {
+    margin-bottom: 1.5rem;
+    color: #007bff;
+}
+.value-card {
+    background-color: white;
+    padding: 1.5rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
