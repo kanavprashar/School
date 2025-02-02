@@ -1,0 +1,19 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.carousel-inner img {
+    height: 70vh;
+    object-fit: cover;
+}
+.welcome-section {
+    padding: 3rem 1rem;
+    text-align: center;
+    background-color: #f8f9fa;
+}
+.welcome-section h2 {
+    margin-bottom: 1rem;
+}
